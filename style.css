@@ -1,0 +1,23 @@
+@font-face {
+    font-family: inter;
+    src: url(inter.woff);
+}
+
+body {
+    background-color: #e8f2fa;
+}
+
+
+h1 {
+    margin: 150px;
+    text-align: center;
+    letter-spacing: 5px;
+    font-family: Tahoma, Helvetica, sans-serif;
+    font-size: 40px;
+    color: #919492;
+
+}
+
+p {
+    background-color: white;
+}
